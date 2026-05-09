@@ -50,6 +50,6 @@ To deliver an interactive visual tool that:
 ## 6. Screenshots / Demos
 
 * **Page 1: HR Attrition Overview**  
-  
+  https://github.com/AKSH-chaudhary/HR-Data-Analysis/blob/main/employee_performance.png
 * **Page 2: Employee Performance Analytics**  
   `![Employee Performance Dashboard](link-to-your-image-2.png)`
